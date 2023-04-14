@@ -1,0 +1,10 @@
+{
+    "image": "mcr.microsoft.com/dotnet/sdk:6.0",
+    "customizations":{
+        "vscode": {
+            "extensions": [
+                "ms-dotnettools.vscode-dotnet-pack"
+            ]
+        }
+    }
+}
