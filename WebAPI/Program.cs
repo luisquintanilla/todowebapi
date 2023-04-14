@@ -22,6 +22,7 @@ app.UseStaticFiles();
 var todos = new List<TodoItem>();
 
 // Get all todos
+// Add XML comments
 app.MapGet("/todos", () => todos);
 
 // Get a single todo
