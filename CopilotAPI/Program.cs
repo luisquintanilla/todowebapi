@@ -1,6 +1,5 @@
 // Write a simple TODO app using Minimal ASP.NET, that lets the user add TODOs, list their TODOs, list specific TODOs, and delete TODOs, ensuring that the app stores Id for each todo item. 
-// The app should be able to handle concurrent requests.
-// The app should be able to handle concurrent requests.
+
 using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
